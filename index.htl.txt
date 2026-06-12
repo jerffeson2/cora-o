@@ -93,7 +93,7 @@
     <script>
         // ⚠️ ATENÇÃO: Mude para o SEU número abaixo (DDI + DDD + Número) sem espaços ou traços.
         // Exemplo: "5581999999999" (55 do Brasil, código de área e o número)
-        const 5581992304256 = "5581999999999"; 
+        const SEU_NUMERO = "5581992304256"; 
 
         // Esta frase com o "Te amo ❤️" garante a animação de corações no WhatsApp
         const textoMensagem = "Eu aceito! Feliz Dia dos Namorados, te amo! ❤️🌹";
