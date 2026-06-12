@@ -81,7 +81,7 @@
 <body>
 
     <div class="container">
-        <h1>Quer ser meu/minha eterno(a) namorado(a)? 🌹</h1>
+        <h1>Quer ser minha eterna namorada? 🌹</h1>
         <p>Tenho uma surpresa para você no WhatsApp...</p>
         
         <div class="botoes">
